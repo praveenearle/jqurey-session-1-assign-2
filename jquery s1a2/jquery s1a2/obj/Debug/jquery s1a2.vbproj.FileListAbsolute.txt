@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2013\Projects\jquery s1a2\jquery s1a2\bin\jquery s1a2.dll.config
+c:\users\admin\documents\visual studio 2013\Projects\jquery s1a2\jquery s1a2\bin\jquery s1a2.dll
+c:\users\admin\documents\visual studio 2013\Projects\jquery s1a2\jquery s1a2\bin\jquery s1a2.pdb
+c:\users\admin\documents\visual studio 2013\Projects\jquery s1a2\jquery s1a2\bin\jquery s1a2.xml
+c:\users\admin\documents\visual studio 2013\Projects\jquery s1a2\jquery s1a2\obj\Debug\jquery_s1a2.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\jquery s1a2\jquery s1a2\obj\Debug\jquery s1a2.vbproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\jquery s1a2\jquery s1a2\obj\Debug\jquery s1a2.dll
+c:\users\admin\documents\visual studio 2013\Projects\jquery s1a2\jquery s1a2\obj\Debug\jquery s1a2.xml
+c:\users\admin\documents\visual studio 2013\Projects\jquery s1a2\jquery s1a2\obj\Debug\jquery s1a2.pdb
